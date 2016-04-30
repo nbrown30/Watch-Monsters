@@ -1,0 +1,62 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Banana's Inc.",
+    "longName": "Watch Monsters",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/harpy.png",
+                "name": "HARPY",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_watch_monsters.png",
+                "menuIcon": true,
+                "name": "APP_LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/thy_dungeonman.png",
+                "name": "PLAYER",
+                "type": "png"
+            },
+            {
+                "file": "images/cyber_bear.png",
+                "name": "BEAR",
+                "type": "png"
+            },
+            {
+                "file": "images/mean_duck.png",
+                "name": "DUCK",
+                "type": "png"
+            },
+            {
+                "file": "images/ghoul.png",
+                "name": "GHOUL",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_redux.png",
+                "name": "LOGO",
+                "type": "png"
+            },
+            {
+                "file": "images/game_over.png",
+                "name": "GAME_OVER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Watch Monsters",
+    "uuid": "6dd0a4ea-647b-45a8-801a-7b5a539f99ac",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
