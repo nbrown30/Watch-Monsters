@@ -1,2 +1,2 @@
 # Watch-Monsters
-From HackYSU 2015
+Developed by Nick Stanley, Dylan West, Tyler Dunkel, and Nick Brown during HackYSU 2015.
